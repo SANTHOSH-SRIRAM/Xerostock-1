@@ -1,0 +1,74 @@
+.architecture {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.architecture img {
+  margin-left: 30px;
+  width: 179px;
+  height: 96.3px;
+  flex-direction: row;
+}
+.architecture label {
+  margin-left: 30px;
+  gap: 10px;
+}
+.jewellery {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.jewellery img {
+  margin-left: 30px;
+  width: 179px;
+  height: 96.3px;
+  flex-direction: row;
+}
+.jewellery label {
+  margin-left: 30px;
+  gap: 10px;
+}
+.tourism {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.tourism img {
+  margin-left: 30px;
+  width: 179px;
+  height: 96.3px;
+  flex-direction: row;
+}
+.tourism label {
+  margin-left: 30px;
+  gap: 10px;
+}
+.medical {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.medical img {
+  margin-left: 30px;
+  width: 179px;
+  height: 96.3px;
+  flex-direction: row;
+}
+.medical label {
+  margin-left: 30px;
+  gap: 10px;
+}
+.imgtxt {
+  display: flex;
+  flex-direction: column;
+}
+.gallery-title{
+  margin-left: 40px;
+  
+}
+.collection{
+  padding: 20px;
+}
+.architecture,.jewellery,.tourism,.medical{
+  padding-bottom: 40px;
+}

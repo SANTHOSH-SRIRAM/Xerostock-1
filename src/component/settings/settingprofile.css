@@ -1,0 +1,44 @@
+.profile{
+    width: 1172px;
+    height: 896px;
+}
+.profile h3{
+    width: 102px;
+height: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+}
+.profile-row input{
+    margin-left: 147px;
+    background-color: transparent;
+    border: transparent;
+}
+.profile-row a{
+    margin-left: 350px;
+}
+hr{
+    width: 968px;
+    margin-left: 0px;
+}
+.profile-row{
+    padding-top: 34px;
+    padding-bottom: 33px;
+    display: flex;
+    flex-direction: row;
+}
+.profile-row1{
+    padding-top: 34px;
+    padding-bottom: 33px;
+}
+.profile-row1 label{
+    width: 153px;
+    padding-right: 100px;
+}
+.profile-row label{
+    width: 153px;
+    /* padding-right: 100px; */
+}

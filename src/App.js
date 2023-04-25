@@ -1,24 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import {BrowserRouter, Route, Routes } from "react-router-dom";
+// import { Settingplans } from './component/settings/settingplans';
+// import Signup from './component/signup';
+// import Navbar from './component/navbar/navbar';
+// import { HomeSettings } from './component/settings/homeSettings';
+// import HomeSetting1 from './component/settings/homeSetting1';
+// import HomeSetting2 from './component/settings/homeSetting2';
+// import Payment from './component/payment/payment';
+// import Home from './component/home/home';
+import { SettingIndex } from './component/settings/settingIndex';
+// import Settingprofile from './component/settings/settingprofile';
+// import { Settingcollection } from './component/settings/settingcollection';
+// import { Myaccount } from './component/settings/myaccount';
+// import { Settingnav } from './component/settings/settingnav';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+    {/* <Navbar></Navbar> */}
+    <Routes>
+        <Route path="" element={<SettingIndex />}></Route>
+      </Routes>
+    </BrowserRouter>
+      
+   
   );
 }
 
