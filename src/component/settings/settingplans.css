@@ -1,19 +1,19 @@
-h2{
-    font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 32px;
-line-height: 48px;
+h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.11vw;
+  line-height: 3.17vw;
 }
-.plans-row{
-    display: flex;
-    flex-direction: row;
-    padding-bottom: 50px;
+.plans-row {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 3.30vw;
 }
-.plans-row label{
-    padding-right: 495px;
+.plans-row label {
+  padding-right: 32.73vw;
 }
-hr{
-    width: 1102px;
-    margin-left: 0px;
+hr {
+  width: 72.88vw;
+  margin-left: 0px;
 }

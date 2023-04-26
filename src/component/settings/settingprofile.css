@@ -1,44 +1,44 @@
 .profile{
-    width: 1172px;
-    height: 896px;
+    width: 113.22vw;
+    height: 91.24vh;
 }
 .profile h3{
-    width: 102px;
-height: 48px;
+    width: 6.74vw;
+height: 4.88vh;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 32px;
-line-height: 48px;
+font-size: 2.11vw;
+line-height: 3.17vw;
 }
 .profile-row input{
-    margin-left: 147px;
+    margin-left: 9.72vw;
     background-color: transparent;
     border: transparent;
 }
 .profile-row a{
-    margin-left: 350px;
+    margin-left: 23.14vw;
 }
 hr{
-    width: 968px;
+    width: 64.02vw;
     margin-left: 0px;
 }
 .profile-row{
-    padding-top: 34px;
-    padding-bottom: 33px;
+    padding-top: 2.24vw;
+    padding-bottom: 2.18vw;
     display: flex;
     flex-direction: row;
 }
 .profile-row1{
-    padding-top: 34px;
-    padding-bottom: 33px;
+    padding-top: 2.24vw;
+    padding-bottom: 2.18vw;
 }
 .profile-row1 label{
-    width: 153px;
-    padding-right: 100px;
+    width: 10.11vw;
+    padding-right: 6.61vw;
 }
 .profile-row label{
-    width: 153px;
+    width: 10.11vw;
     /* padding-right: 100px; */
 }

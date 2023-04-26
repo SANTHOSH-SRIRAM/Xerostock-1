@@ -1,6 +1,6 @@
 #collection{
-  width: 1172px;
-height: 896px;
+  width: 77.51vw;
+height: 91.24vh;
 /* margin-left: 340px;
 margin-top: 86px; */
 overflow-y: scroll;
@@ -11,9 +11,9 @@ display: flex;
 .collection-row {
   display: flex;
   flex-direction: row;
-  padding-bottom: 48px;
-  padding-top: 23px;
+  padding-bottom: 3.17vw;
+  padding-top: 1.52vw  ;
 }
 img{
-  padding-right: 24px;
+  padding-right: 1.58vw;
 }
