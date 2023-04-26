@@ -17,7 +17,7 @@ const HomeSetting1 = () => {
                     <button>Profile</button>
                     <button>Plans and Bills</button>
                     <button>My collections</button>
-                    <button>Become a creator</button>
+                    <button>Become a createrewptiopokrwor</button>
                 </div>
                 <div className='profile'>
                     <div className='profile-sub'>
