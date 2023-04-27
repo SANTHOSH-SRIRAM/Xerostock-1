@@ -8,7 +8,10 @@ import {BrowserRouter, Route, Routes } from "react-router-dom";
 // import HomeSetting2 from './component/settings/homeSetting2';
 // import Payment from './component/payment/payment';
 // import Home from './component/home/home';
-import { SettingIndex } from './component/settings/settingIndex';
+// import { SettingIndex } from './component/settings/settingIndex';
+import { LandingSection1 } from './component/home/landingSection1';
+// import { Bottomnav } from './component/home/bottomnav';
+// import { Menu } from './component/home/menubar';
 // import Settingprofile from './component/settings/settingprofile';
 // import { Settingcollection } from './component/settings/settingcollection';
 // import { Myaccount } from './component/settings/myaccount';
@@ -19,7 +22,7 @@ function App() {
     <BrowserRouter>
     {/* <Navbar></Navbar> */}
     <Routes>
-        <Route path="" element={<SettingIndex />}></Route>
+        <Route path="" element={<LandingSection1 />}></Route>
       </Routes>
     </BrowserRouter>
       

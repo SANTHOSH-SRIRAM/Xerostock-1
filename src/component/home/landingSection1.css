@@ -1,0 +1,66 @@
+#LandingSection{
+    width: 1513px;
+height: 780px;
+background: rgba(1, 1, 1, 0.5);
+
+}
+.LandingSection-head{
+    display: flex;
+    flex-direction: row;
+    padding-top: 41px;
+}
+.LandingSection-title label{
+    margin-left: 100px;
+margin-top: 41px;
+
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 44px;
+}
+
+.LandingSection-input{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.LandingSection-logsign-in{
+    margin-left: 700px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.LandingSection-logsign-in button{
+    
+    width: 122px;
+    height: 43px;
+    border: 1px solid #FFFFFF;
+border-radius: 10px;
+background-color: transparent;
+}
+.input{
+    width: 286px;
+    height: 49px;
+/* background-color: white; */
+/* background-color: #E7E7E7; */
+border-radius: 37px;
+}
+#LandingSection-input{
+    /* background-color: #E7E7E7; */
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    margin-top: 189px;
+    margin-left: 572px;
+}
+.mic{
+    width: 58px;
+    height: 49px;
+    background: white;
+border-radius: 37px;
+}
+.mic i{
+    color: #000205;
+}

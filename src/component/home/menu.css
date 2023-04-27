@@ -1,0 +1,29 @@
+#Menu{
+    width: 1512px;
+height: 780px;
+}
+.menulist{
+    margin-top: 198px;
+    margin-left: 655px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.menulist label{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 66px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+cursor: pointer;
+}
+.close{
+    margin-left: 1375px;
+    margin-top: 45px ;
+    cursor: pointer;
+}
