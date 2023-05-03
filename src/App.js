@@ -9,7 +9,9 @@ import {BrowserRouter, Route, Routes } from "react-router-dom";
 // import Payment from './component/payment/payment';
 // import Home from './component/home/home';
 // import { SettingIndex } from './component/settings/settingIndex';
-import { LandingSection1 } from './component/home/landingSection1';
+// import { LandingSection1 } from './component/home/landingSection1';
+// import { LandingpageMenu1 } from './component/home/landingpageMenu1';
+import { Voiceassist } from './component/home/voiceassist';
 // import { Bottomnav } from './component/home/bottomnav';
 // import { Menu } from './component/home/menubar';
 // import Settingprofile from './component/settings/settingprofile';
@@ -22,7 +24,7 @@ function App() {
     <BrowserRouter>
     {/* <Navbar></Navbar> */}
     <Routes>
-        <Route path="" element={<LandingSection1 />}></Route>
+        <Route path="" element={<Voiceassist />}></Route>
       </Routes>
     </BrowserRouter>
       

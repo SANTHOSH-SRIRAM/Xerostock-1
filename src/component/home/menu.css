@@ -1,20 +1,20 @@
 #Menu{
-    width: 1512px;
-height: 780px;
+    width: 100vw;
+height: 79.42896vh;
 }
 .menulist{
-    margin-top: 198px;
-    margin-left: 655px;
+    margin-top: 20.162736vh;
+    margin-left: 43.31973vw;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 4.07328vh;
 }
 .menulist label{
     font-family: 'Manrope';
 font-style: normal;
 font-weight: 800;
-font-size: 48px;
-line-height: 66px;
+font-size: 3.174576vw;
+line-height: 6.720912vh;
 /* identical to box height */
 
 display: flex;
@@ -23,7 +23,7 @@ text-align: center;
 cursor: pointer;
 }
 .close{
-    margin-left: 1375px;
-    margin-top: 45px ;
+    margin-left: 90.938375vw;
+    margin-top: 4.58244vh;
     cursor: pointer;
 }

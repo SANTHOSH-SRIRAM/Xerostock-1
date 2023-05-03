@@ -1,7 +1,7 @@
 import React from 'react'
 import Particles from "react-tsparticles";
 
-const App = () => {
+const Background = () => {
     const ParticlesInit = (main) =>{
         console.log(main)
     } 

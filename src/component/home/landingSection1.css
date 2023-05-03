@@ -1,23 +1,23 @@
 #LandingSection{
-    width: 1513px;
-height: 780px;
+    width: 100vw;
+height: 79.42vh;
 background: rgba(1, 1, 1, 0.5);
 
 }
 .LandingSection-head{
     display: flex;
     flex-direction: row;
-    padding-top: 41px;
+    padding-top: 2.71vw;
 }
 .LandingSection-title label{
-    margin-left: 100px;
-margin-top: 41px;
+    margin-left: 6.61vw;
+margin-top: 2.71vw;
 
     font-family: 'Manrope';
 font-style: normal;
 font-weight: 800;
-font-size: 32px;
-line-height: 44px;
+font-size: 2.11vw;
+line-height: 2.91vw;
 }
 
 .LandingSection-input{
@@ -27,39 +27,40 @@ line-height: 44px;
     flex-direction: column;
 }
 .LandingSection-logsign-in{
-    margin-left: 700px;
+    margin-left: 46.29vw;
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 1.32vw;
 }
 .LandingSection-logsign-in button{
     
-    width: 122px;
-    height: 43px;
+    width: 8.06vw;
+    height: 4.378776vh;
     border: 1px solid #FFFFFF;
-border-radius: 10px;
+border-radius: 0.66vw;
 background-color: transparent;
+cursor: pointer;
 }
 .input{
-    width: 286px;
-    height: 49px;
+    width: 18.91vw;
+    height: 4.98vh;
 /* background-color: white; */
 /* background-color: #E7E7E7; */
-border-radius: 37px;
+border-radius: 2.44vw;
 }
 #LandingSection-input{
     /* background-color: #E7E7E7; */
     display: flex;
     flex-direction: row;
-    gap: 24px;
-    margin-top: 189px;
-    margin-left: 572px;
+    gap: 1.58vw;
+    margin-top: 12.49vw;
+    margin-left: 37.83vw;
 }
 .mic{
-    width: 58px;
-    height: 49px;
+    width: 3.83vw;
+    height: 4.98vh;
     background: white;
-border-radius: 37px;
+border-radius: 2.44vw;
 }
 .mic i{
     color: #000205;

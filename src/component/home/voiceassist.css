@@ -1,0 +1,22 @@
+#voiceassist {
+  width: 534px;
+  height: 326px;
+  background: #121212;
+  border-radius: 10px;
+}
+.back {
+  padding-top: 27px;
+  padding-left: 26px;
+  color: #ffffff;
+}
+.help {
+  margin-top: 34px;
+  margin-left: 97px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #ffffff;
+}

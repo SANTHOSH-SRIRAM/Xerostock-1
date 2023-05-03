@@ -1,63 +1,61 @@
-#Bottomnav{
-    width: 1512px;
-height: 795px;
-background: #1F1F1F;
+#Bottomnav {
+  width: 100vw;
+  height: 80.9564vh;
+  background: #1f1f1f;
 }
-.title{
-     width: 499px;
-height: 204px;
-margin-left: 214px;
-/* margin-top: 110px; */
-padding-top: 110px;
+.title {
+  width: 33.00236vw;
+  height: 20.773728vh;
+  margin-left: 14.153318vw;
+  /* margin-top: 110px; */
+  padding-top: 7.27507vw;
 }
-.title label{
-    width: 499px;
-height: 204px;
-/* margin-left: 214px; */
-padding-top: 110px;
+.title label {
+  width: 33.002vw;
+  height: 20.77372vh;
+  /* margin-left: 214px; */
+  padding-top: 11.2015vh;
 
-font-family: 'Manrope';
-font-style: normal;
-font-weight: 200;
-font-size: 50px;
-line-height: 68px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 3.30685vw;
+  line-height: 6.924576vh;
 
-color: #FFFFFF;
+  color: #ffffff;
+}
+.list {
+  margin-top: 11.914344vh;
+  margin-left: 14.15331vw;
+  display: flex;
+  flex-direction: column;
+  gap: 2.13847vh;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.32274vw;
+  line-height: 2.749464vh;
 
+  color: #ffffff;
 }
-.list{
-    margin-top: 117px;
-    margin-left: 214px;
-    display: flex;
-    flex-direction: column;
-    gap: 21px;
-    font-family: 'Manrope';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 27px;
-
-color: #FFFFFF;
-
+.socialmedia {
+  display: flex;
+  flex-direction: row;
+  gap: 2.138472vw;
+  margin-top: 14.86747vh;
+  margin-left: 43.716557vw;
 }
-.socialmedia{
-    display: flex;
-    flex-direction: row;
-    gap: 21px;
-    margin-top: 146px;
-    margin-left: 661px;
+i {
+  color: white;
+  cursor: pointer;
 }
-i{
-    color: white;
-    cursor: pointer;
+.copyright {
+  margin-top: 2.03664vh;
+  margin-left: 41.00494vw;
+  display: flex;
+  flex-direction: row;
+  gap: 0.925918vw;
 }
-.copyright{
-    margin-top: 20px;
-    margin-left: 620px;
-    display: flex;
-    flex-direction: row;
-    gap: 14px;
-}
-.copyright label{
-    color: white;
+.copyright label {
+  color: white;
 }
